@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-android tic-tac-toe
+Ketan's android App
